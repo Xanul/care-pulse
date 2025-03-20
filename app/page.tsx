@@ -3,7 +3,7 @@
 export default function Home() {
   return (
     <div>
-      <h1 className="text-3xl underline">Home Page</h1>
+      <h1 className="text-3xl underline text-white">Home Page</h1>
     </div>
   );
 }
